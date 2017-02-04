@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "marko-starter": "marko-js/marko-starter",
+    "marko-starter-babel": "philidem/marko-starter-babel",
     "marko": "^4.0.0-rc.12"
   }
 }
