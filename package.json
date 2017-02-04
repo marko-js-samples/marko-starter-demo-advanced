@@ -11,8 +11,8 @@
     "eslint-config-marko": "^1.0.1"
   },
   "dependencies": {
-    "marko-starter": "marko-js/marko-starter",
-    "marko-starter-babel": "philidem/marko-starter-babel",
+    "marko-starter": "git://github.com/philidem/marko-starter.git",
+    "marko-starter-babel": "git://github.com/philidem/marko-starter-babel.git",
     "marko": "^4.0.0-rc.12"
   }
 }
